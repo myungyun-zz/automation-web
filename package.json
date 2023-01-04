@@ -37,9 +37,9 @@
   "description": "Please refer to its documentation:   - [Getting Started](https://github.com/jqwidgets/my-app/blob/master/README.md#getting-started)    - [jQWidgets Vue Documentation](http://www.jqwidgets.com/vue-components-documentation/)",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0",
-    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-eslint": "^3.8.0",
-    "@vue/cli-service": "^3.8.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.1",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.13.1",
